@@ -6,7 +6,6 @@ on:
       - 'main'
     paths-ignore:
       - '**/LICENSE'
-      - '**/README.md'
       - '**/build.yml'
       - '**/.gitignore'
       - '**/.gitattributes'
